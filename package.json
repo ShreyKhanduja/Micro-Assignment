@@ -1,0 +1,22 @@
+{
+  "name": "micro-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyKhanduja/Micro-Assignment.git"
+  },
+  "author": "Shrey Khanduja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShreyKhanduja/Micro-Assignment/issues"
+  },
+  "homepage": "https://github.com/ShreyKhanduja/Micro-Assignment#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
